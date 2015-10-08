@@ -3,17 +3,17 @@
 ## Setup Todos
 
 1. Configure Webpack
-  * sass compiler
-  * watch
-  * js compiler
-2. Setup package.json
+  * sass compiler √
+  * hot-reloader
+  * js compiler √
+2. Setup package.json √
   * react
   * flux
   * eslint
   * babel
   * react-router
 3. Project setup
-  * directory structure
+  * directory structure √
   * local json files
   * local images
 
