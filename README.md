@@ -1,6 +1,6 @@
 # Let's build something with React & Flux
 
-## Setup Todos
+## My Setup Todos
 
 1. Configure Webpack
   * sass compiler √
@@ -17,15 +17,22 @@
   * local json files
   * local images
 
-## Project
+## Project Goal
 
-Project Goal: Build a reusable react component library for the non-existent Rovi developer API.
+Build a reusable react component library for the non-existent Rovi developer API.
 
 ### Project Flow
 
-Fake user login screen to demonstrate routes and capturing data. Saves to local storage. Hit Gravatar API to show use of ajax calls and integrating a third party API.
+Fake user login screen to demonstrate routes and capturing data. Saves to local storage. 
 
 Redirects to Movies landing page - renders "Cult Classics".
-Click on a movie to go to a movie details page.
+Click on a movie to go to a movie details page (show routing with dynamic data)
 
-Build "Buy Now" Component
+Build "Buy Now" Component (demonstrate smart / dumb components)
+
+## Project Setup
+
+1. Install Node / Make sure node & npm are up to date
+2. Run `npm install`
+3. Run `npm start`
+4. (Optional) Install [React Developer Tools for Chrome](https://chrome.google.com/webstore/detail/react-developer-tools/fmkadmapgofadopljbjfkapdkoienihi?hl=en)
